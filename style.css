@@ -15,95 +15,97 @@
 
 .icon-arrowbottom:before {
   content: "\e900";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-arrowleft:before {
   content: "\e901";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-arrowright:before {
   content: "\e902";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-arrowright-1:before {
   content: "\e903";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-arrowright-2:before {
   content: "\e904";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-check:before {
   content: "\e905";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-cloud:before {
   content: "\e906";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-discord:before {
   content: "\e907";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-drive:before {
   content: "\e908";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-facebook:before {
   content: "\e909";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-froze:before {
   content: "\e90a";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-insta:before {
   content: "\e90b";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-leaf:before {
   content: "\e90c";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-light:before {
   content: "\e90d";
+  color: currentColor;
 }
 .icon-linkedin:before {
   content: "\e90e";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-pen:before {
   content: "\e90f";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-play:before {
   content: "\e910";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-qrrowright:before {
   content: "\e911";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-settings:before {
   content: "\e912";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-stars:before {
   content: "\e913";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-SVG:before {
   content: "\e914";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-valt:before {
   content: "\e915";
+  color: currentColor;
 }
 .icon-x:before {
   content: "\e916";
-  color: #ccc;
+  color: currentColor;
 }
 .icon-youtube:before {
   content: "\e917";
-  color: #ccc;
+  color: currentColor;
 }
