@@ -1,3 +1,11 @@
+<style>
+@font-face {
+  font-family: 'Icon Font' !important;
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Icon Font' !important;
@@ -107,3 +115,5 @@
   content: "\e917";
   color: #ccc;
 }
+
+</style>
